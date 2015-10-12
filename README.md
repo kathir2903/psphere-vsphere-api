@@ -9,6 +9,7 @@ Using python bindings for vsphere SDK (apis)
 
 ###References
 http://pythonhosted.org/psphere/
+
 https://www.vmware.com/support/developer/vc-sdk/visdk41pubs/ApiReference/
 
 

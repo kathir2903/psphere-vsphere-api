@@ -1,12 +1,11 @@
 #!/usr/bin/python
 
 import json, sys, os, re
-import urlparse, time
+import time
 import logging
 from psphere import client
 from psphere import managedobjects
 from psphere import errors
-from getconfig import Config
 
 logger = logging.getLogger(__name__)
 
